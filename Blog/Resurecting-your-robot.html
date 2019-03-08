@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <link rel="stylesheet" href="../Styles/site.css">
+    <link rel="stylesheet" href="../Styles/blog.css">
+</head>
+
+<body>
+    <div class="nav">
+        <ul>
+            <li><a href='/'>Home</a></li>
+            <li><a href='/About/About.html'>About</a></li>
+            <li><a href='/Blog/Resurecting-your-robot.html'>Blog</a></li>
+            <li><a href='/'>Gallery</a></li>
+        </ul>
+    </div>
+
+    <div class="post">
+        <h1>Robot Revital</h1>
+
+        <p>Want to get your robots moving again? Lacking the kit to do so? Now you can, with the Systemetric
+            Laboratories Robot Revival Software™.</p>
+
+        <h2 id="required-equipment">Required equipment</h2>
+
+        <ul>
+            <li>One (1) <a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/">Raspberry Pi 3</a></li>
+            <li>One (1) 16 GB microSD card (ideally class 10 or UHS)</li>
+            <li>One (1) copy of the Systemetric Laboratories Robot Revival Software™, available to download in
+                compressed fo\1rm <a
+                    href="https://hrsfc-my.sharepoint.com/:u:/g/personal/dmassey_hrsfc_ac_uk/EUyK_8QnrtpNr1fRUydOMssB_ebrbxQ-Hd3JWdLje_R0CA?e=GqgkCL">here</a>
+            </li>
+        </ul>
+
+        <h2 id="instructions">Instructions</h2>
+
+        <ol>
+            <li>Download and decompress the Systemetric Laboratories Robot Revival Software™. This may take some time.
+            </li>
+            <li>Write the Systemetric Laboratories Robot Revival Software™ to your microSD card.
+                <ul>
+                    <li>Help on how to do this is available on the <a
+                            href="https://www.raspberrypi.org/documentation/installation/installing-images/README.md">Raspberry
+                            Pi website</a>.</li>
+                </ul>
+            </li>
+            <li>Insert the microSD card into the Raspberry Pi, attach any required peripherals (e.g. webcam), and turn
+                on the power.</li>
+            <li>Plug a USB stick containing a valid robot.zip into the Raspberry Pi.
+                <ul>
+                    <li>Assuming you do not have a Student Robotics power board, any code that tries to access <code
+                            class="highlighter-rouge">Robot.power</code> is likely to crash, but most other code should
+                        work without issues.</li>
+                </ul>
+            </li>
+            <li>Once the code has been loaded, connect to the Raspberry Pi’s access point (<code
+                    class="highlighter-rouge">RasPi3AP</code>) with the password <code
+                    class="highlighter-rouge">raspberry</code>.</li>
+            <li>In a web browser, visit <code class="highlighter-rouge">robot.sr</code> and press the start button.</li>
+        </ol>
+
+        <h2 id="known-issues">Known issues</h2>
+
+        <ul>
+            <li>Sometimes, the web interface at <code class="highlighter-rouge">robot.sr</code> may not become
+                accessible after plugging in a USB stick. This is usually due to the robot failing to find the
+                robot.zip, which can be caused by having multiple USB mass storage devices plugged in to the Raspberry
+                Pi. It may be possible to fix this by rebooting the Raspberry Pi, but an easier solution is to copy the
+                robot.zip onto all the USB mass storage devices plugged in to the Raspberry Pi.</li>
+        </ul>
+
+        <p>If you have any other problems, <a href="/contact/">email us</a> and we’ll try to help you out.</p>
+
+        <p><em>Update:</em> Some people have requested a minimal robot.zip they can use to test their setup; you can now
+            download one <a href="/static/robot.zip">here</a>. All it does is print out what markers are visible,
+            forever.</p>
+    </div>
+
+    </article>
+    <!-- end layouts/post -->
+
+    <!-- includes/footer -->
+    <footer>
+        <hr>
+        <p>Copyright © 2019 Systemetric.</p>
+    </footer>
+    <!-- end includes/footer -->
+
+</body>
+
+</html>
