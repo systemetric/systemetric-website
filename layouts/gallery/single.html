@@ -1,0 +1,36 @@
+{{ define "main" }}
+<main class="content" id="gallery">
+  <masonry v-bind:cols="3" v-bind:gutter="16">{{ $galleryImages := .Params.images}}{{ range.Resources }}{{ if in $galleryImages .RelPermalink }}
+    {{ $thumbnail := .Resize "400x" }}<div
+      class="image"
+      style="padding-top: {{ div (mul 100.0 .Height) .Width }}%;"
+      data-thumbnail="{{ $thumbnail.RelPermalink }}"
+      v-on:click="showImage($event, '{{$thumbnail.RelPermalink}}', '{{ .RelPermalink }}')"
+    ></div>{{ end }}{{ end }}
+  </masonry>
+  <div
+    class="lightbox"
+    style="display: none"
+    v-show="lightboxShown"
+    v-bind:style="{ opacity: lightboxOpacity }"
+    v-on:click.stop="hideImage"
+  ></div>
+  <div
+    class="animated-image"
+    style="display: none"
+    v-show="lightboxShown"
+    v-bind:style="{
+	  opacity: imageOpacity,
+	  top: `${selectedImageTop}px`,
+	  left: `${selectedImageLeft}px`,
+	  width: selectedImageWidth,
+	  height: selectedImageHeight,
+	  backgroundImage: selectedImage ? 'url(\'' + selectedImage + '\')' : 'none'
+    }"
+    v-on:click.stop="hideImage"
+  ></div>
+</main>
+<script src="https://unpkg.com/vue"></script>
+<script src="https://unpkg.com/vue-masonry-css"></script>
+<script src="/js/gallery.js"></script>
+{{ end }}
