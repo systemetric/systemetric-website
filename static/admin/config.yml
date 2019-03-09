@@ -38,11 +38,11 @@ collections:
               widget: "hidden",
               default: "gallery",
             }
-          - { label: "Body", name: "body", widget: "markdown" }
           - label: "Images"
             name: "images"
             widget: "list"
             field: { label: "Image", name: "image", widget: "image" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - label: "Posts"
     name: "posts"
     folder: "content/posts"
