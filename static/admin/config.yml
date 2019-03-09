@@ -17,3 +17,39 @@ collections:
           - { label: "Home", name: "home", widget: "hidden", default: true }
           - { label: "Draft", name: "draft", widget: "hidden", default: false }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: "About"
+        name: "about"
+        file: "content/about/index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Date", name: "date", widget: "datetime" }
+          - { label: "Draft", name: "draft", widget: "hidden", default: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Gallery"
+        name: "gallery"
+        file: "content/gallery/index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Date", name: "date", widget: "datetime" }
+          - { label: "Draft", name: "draft", widget: "hidden", default: false }
+          - {
+              label: "Type",
+              name: "type",
+              widget: "hidden",
+              default: "gallery",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - label: "Images"
+            name: "images"
+            widget: "list"
+            field: { label: "Image", name: "image", widget: "image" }
+  - label: "Posts"
+    name: "posts"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "boolean" }
+      - { label: "Body", name: "body", widget: "markdown" }

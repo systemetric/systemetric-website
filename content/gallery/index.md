@@ -13,5 +13,3 @@ images:
 ---
 
 # Gallery
-
-Hello there!
