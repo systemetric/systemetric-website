@@ -28,5 +28,3 @@ Want to get your robots moving again? Lacking the kit to do so? Now you can, wit
 
 * Sometimes, the web interface at robot.sr may not become accessible after plugging in a USB stick. This is usually due to the robot failing to find the robot.zip, which can be caused by having multiple USB mass storage devices plugged in to the Raspberry Pi. It may be possible to fix this by rebooting the Raspberry Pi, but an easier solution is to copy the robot.zip onto all the USB mass storage devices plugged in to the Raspberry Pi.
   If you have any other problems, [email us](mailto:robotics@hrsfc.ac.uk) and we’ll try to help you out.
-
-Update: Some people have requested a minimal robot.zip they can use to test their setup; you can now download one [here](https://compassionate-hypatia-dde05e.netlify.com/static/robot.zip). All it does is print out what markers are visible, forever.
