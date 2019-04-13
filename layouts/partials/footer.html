@@ -1,6 +1,7 @@
-{{if not .Page.Params.home }}
-<footer>
+<footer {{if .Page.Params.home}}class="home-footer"{{end}}>
   <hr />
   <p>Copyright © 2019 Systemetric.</p>
+  <a href="https://www.netlify.com">
+    <img src="https://www.netlify.com/img/global/badges/netlify-light.svg"/>
+  </a>
 </footer>
-{{ end }}
