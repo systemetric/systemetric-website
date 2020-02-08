@@ -8,3 +8,7 @@ Ever since the October Student Robotics kickoff, the Hills Road robotics team ha
 The team is thrilled that we can now pick up cubes (and put them down) with our arm mechanism. We've used a drawer runner, a linear actuator, belt with 3D printed pulleys and a pneumatic pump to construct it. 
 
 ![Robot arm](/gallery/images/20200201_144547.jpg "Robot arm")
+
+The software side of our team have been working tirelessly to get the robot moving (and in the direction we want!). They've also modified the Student Robotics vision code to allow us to use different cameras with our robot.
+
+We also have an amazing plan for our theme
