@@ -11,4 +11,4 @@ The team is thrilled that we can now pick up cubes (and put them down) with our 
 
 The software side of our team have been working tirelessly to get the robot moving (and in the direction we want!). They've also modified the Student Robotics vision code to allow us to use different cameras with our robot.
 
-We also have an amazing plan for our theme
+We also have an amazing plan for our theme. We can't say much about it at the moment, but we can tell you that it involves a printer chassis for our robot and spray painting Nerf guns black. We'll let you keep guessing, but keep your eyes peeled to find out...
