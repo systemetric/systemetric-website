@@ -1,7 +1,7 @@
 ---
 title: Student Robotics February update
 date: 2020-02-08T15:00:00.000Z
-draft: true
+draft: false
 ---
 Ever since the October Student Robotics kickoff, the Hills Road Robotics Team has been hard at work building our robot, but we haven't shared much of it! So we thought it was time to show off some of our work but don't expect any of our top secret strategies!
 
