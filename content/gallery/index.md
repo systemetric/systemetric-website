@@ -32,6 +32,7 @@ images:
   - /gallery/images/20200205_151054.jpg
   - /gallery/images/20200215_124703.jpg
   - /gallery/images/image0 (1).jpg
+  - /gallery/images/20200218_125521.jpg
 ---
 
 # Gallery
