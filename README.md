@@ -9,7 +9,7 @@ is not all the we Systemetric do.
 
 Files should be uploaded to the gallery with the name in the following format:
 
-<competition year>_<image_number>.jpg
+`<competition year>_<image_number>.jpg`
 
 For example, 2020_03.jpg would be the third image for the 2020 Student Robotics competition.
 
