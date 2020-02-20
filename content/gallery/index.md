@@ -17,7 +17,7 @@ images:
   - /gallery/images/20190126_145834.jpg
   - /gallery/images/20190202_124459.jpg
   - /gallery/images/20190202_124448.jpg
-  - "/gallery/images/IMG_20190216_142921 (1).jpg"
+  - /gallery/images/IMG_20190216_142921 (1).jpg
   - /gallery/images/IMG_20190216_143846714.jpg
   - /gallery/images/20190220_164144.jpg
   - /gallery/images/IMG_20190220_184947214.jpg
@@ -25,6 +25,7 @@ images:
   - /gallery/images/IMG_20190221_135844268.jpg
   - /gallery/images/IMG_20190221_115130459_HDR.jpg
   - /gallery/images/20190223_110026.jpg
+  - /gallery/images/20191123_111754.jpg
 ---
 
 # Gallery
