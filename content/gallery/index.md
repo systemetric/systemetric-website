@@ -26,6 +26,7 @@ images:
   - /gallery/images/IMG_20190221_115130459_HDR.jpg
   - /gallery/images/20190223_110026.jpg
   - /gallery/images/20191123_111754.jpg
+  - /gallery/images/20191130_125307.jpg
 ---
 
 # Gallery
