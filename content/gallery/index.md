@@ -28,6 +28,7 @@ images:
   - /gallery/images/20191123_111754.jpg
   - /gallery/images/20191130_125307.jpg
   - /gallery/images/20200205_155500.jpg
+  - /gallery/images/image0.jpg
 ---
 
 # Gallery
