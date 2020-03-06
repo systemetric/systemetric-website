@@ -35,6 +35,8 @@ images:
   - /gallery/images/2020_08.jpg
   - /gallery/images/2020_09.jpg
   - /gallery/images/2020_10.jpg
+  - /gallery/images/2020_11.jpg
+  - /gallery/images/2020_12.jpg
 ---
 
 # Gallery
