@@ -1,7 +1,7 @@
 ---
 title: New Student Robotics competition and internal competition
 date: 2021-02-22T15:20:23.524Z
-draft: true
+draft: false
 ---
 <!--StartFragment-->
 
