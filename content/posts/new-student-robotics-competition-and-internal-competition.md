@@ -5,21 +5,21 @@ draft: false
 ---
 <!--StartFragment-->
 
-It's been almost a year since we last shared what we were up to, but despite the current situation, we’ve still got lots going on.  
+It's been almost a year since we last shared what we were up to, but despite the current situation, we’ve still got much going on.  
 
-Firstly, student robotics is online this year. Each team programs a robot that will compete in a simulator against other robots. Although this means we won't be able to do any hardware stuff, we’re all still really enjoying it.  
+Firstly, student robotics is online this year. Each team programs a robot designed to compete in a simulator against other robots. This means we haven't been able to do any hardware stuff, we’re all still really enjoying it.  
 
 If you are interested in the format for this year here is the link to the rulebook: <https://studentrobotics.org/docs/resources/2021/rulebook.html> 
 
 This year, instead of just a final competition at the end of the year, there are 4 league sessions between Christmas and Easter. Teams compete against each other to gain league points which will determine who wins if there is a draw in the final. 
 
-We have also entered 4 teams (HRS1, HRS2, HRS3, HRS4) who all worked hard over the Christmas break to upload the code for the first league session. This was a massive success. HRS3 came in first winning all of their matches and leading with a staggering 82 league points. What's better is the next 3 teams were all the other Hills road teams. 
+We have entered 4 teams (HRS1, HRS2, HRS3, HRS4). They all worked hard over the Christmas break to upload the code for the first league session. This was a massive success. HRS3 came in first winning all of their matches and leading with a staggering 82 league points. What's better is the next 3 places were all the other Hills Road teams. 
 
 ![](/gallery/images/leaderbourd.png)
 
 After each league session, the rules change slightly. This meant many of our teams had to completely rewrite their code in the 2-week gap before the next league session. This was quite stressful but worth it, as the top 3 slots on the leader board are currently all Hills teams. 
 
-All 4 teams are currently making changes to their code to keep up with new rules released after League session 2 and to get ready for the next league session. 
+All 4 teams are currently making changes to their code to keep up with new rules released after League session 2 and to get ready for the third league session. 
 
 If you want to have a look at any of the matches here are the links: 
 
@@ -32,8 +32,6 @@ If you want to have a look at any of the matches here are the links: 
 As well as the student robotics competition, we have also been developing our robotics and electronics skills with an internal competition.  The lower sixth have been split into seven teams, who are all currently designing robots. Their aim is to eventually have the robots compete autonomously to defeat various obstacles and challenges. 
 
 We first started by meeting on the October half term and working together to get various sensors working with the ESP32 dev board. This was really fun and a great opportunity for all the lower sixth to meet the upper sixth and get to know each other. 
-
- 
 
 ![A picture of the teams working on getting all the sensors working](/gallery/images/halfterm-meetup.jpg "The teams hard at work")
 
@@ -61,12 +59,10 @@ The next step is going to be to layout the PCB (Printed circuit boards). We 
 
 We will keep you posted on this blog. 
 
- 
-
 <!--EndFragment-->
 
  \
-Make sure to follow our Instagram and Twitter accounts, as we are releasing weekly updates on our progress: 
+Make sure to follow our Instagram and Twitter accounts, which gives weekly updates on our progress at:
 
 <https://www.instagram.com/hr.robotics/> 
 
