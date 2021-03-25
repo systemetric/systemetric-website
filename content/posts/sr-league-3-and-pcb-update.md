@@ -7,11 +7,13 @@ Last Saturday, we had the Student Robotics league 3 and after 36 matches, team H
 
 ![A screenshot of the SR leader bourd as of the 3rd league](/gallery/images/leader-bourd.png "The current leader bourd ")
 
-HRS1 came up with a controversial new strategy and exploited this to\[CJ1] win 3 of their matches and draw one. They sprinted towards the centre and booby-trapped 2 of the towers on the opponent’s side meaning as soon they tried to claim them, they would lock. This meant that the opponent could only claim a maximum of 5 towers and HRS1 could claim 6.
+HRS1 came up with a controversial new strategy and exploited this to win 3 of their matches and draw one. They sprinted towards the centre and booby-trapped 2 of the towers on the opponent’s side meaning as soon they tried to claim them, they would lock. This meant that the opponent could only claim a maximum of 5 towers and HRS1 could claim 6.
 
 ![A screenshot of one of the matches from last saturday](/gallery/images/werobots-vs-hrs1.png "HRS1 winning a match using the locking stratedgy ")
 
 HRS1(Yellow) doing their victory dance after beating WeRobot by locking the 2 central towers.
+
+
 After the matches had finished, SR announced a dramatic new arena shown below that teams will compete in on the final league and the competition. This arena is much bigger than the last one and now has different towers that are worth up to 8 points, with the gold tower having the highest value.
 
 ![Picture of the new arena](/gallery/images/arena.png "The new arena")
