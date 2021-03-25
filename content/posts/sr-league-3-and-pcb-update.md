@@ -1,7 +1,7 @@
 ---
 title: SR League 3 and PCB update
 date: 2021-03-25T16:30:17.443Z
-draft: true
+draft: false
 ---
 Last Saturday, we had the Student Robotics league 3 and after 36 matches, team HRS4 won all of their matches and overtook HRS1 and HRS3 to take top place on the leader board. It was also a good day for HRS2, who won 3 of their matches and rose to 5th.
 
@@ -19,7 +19,7 @@ After the matches had finished, SR announced a dramatic new arena shown below th
 For our internal competition, we’ve been designing printed circuit boards (PCBs) from the circuit diagrams we made in KiCad. There have been some very impressive PCB art and shapes created by the teams, and the PCBs have now been sent off to be produced. We’re hoping to get them back by the Easter holidays, when we can finally all meet up again.
 The lower sixth members of the robotics group got a chance to meet in person last Wednesday for the first time since October, now that they have returned to college and government regulations permit it. They spent over an hour working on their PCBs with the help of Will and were introduced to the obstacle course that he is making for their robots, involving a bridge, a bright light and a bicycle wheel.
 
-![An image of a William working on his PCB with Will debugging another one]( "Will looking through our pcb's socially distanced")
+![An image of a William working on his PCB with Will debugging another one](/gallery/images/will-talking-us-through-pcbs.png "Will looking through our pcb's socially distanced")
 
 ![An image of 3 students working on there pcb](/gallery/images/2-humans-and-an-alien.png "Alex, Aaron and Mathew")
 
