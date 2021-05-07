@@ -37,6 +37,7 @@ images:
   - /gallery/images/2020_10.jpg
   - /gallery/images/2020_11.jpg
   - /gallery/images/2020_12.jpg
+  - /gallery/images/p1080379.jpg
 ---
 
 # Gallery
