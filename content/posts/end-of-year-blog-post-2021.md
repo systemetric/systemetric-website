@@ -1,7 +1,7 @@
 ---
 title: End of Year Blog Post (2021)
 date: 2021-08-13T17:24:04.504Z
-draft: true
+draft: false
 ---
 <!--StartFragment-->
 
