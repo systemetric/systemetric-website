@@ -47,7 +47,7 @@ We then started designing obstacles that the robots would have to overcome befor
 
 ![A picture of a section of one of the teams obstacles they made to proove it would work](/gallery/images/obstacle2.png "A section of one of the obstacles")
 
-Due to the second lockdown, it was decided that we would not be able to make these as we could not meet in person so instead Will, will design and make a series of obstacles based on these ones we designed. Our robots will then compete against these in the summer. 
+Due to the second lockdown, it was decided that we would not be able to make these as we could not meet in person so instead Will, is going to design and make a series of obstacles based on these ones we designed. Our robots will then compete against these in the summer. 
 
 The chassis for all the robots will be custom designed PCBs (printed circuit boards like the ones you find inside your phones) which we will mount everything to so each team designed a schematic after learning the basics of KiCad (software). This entailed quite a steep learning curve but especially useful to understand. Here is an example schematic: 
 
