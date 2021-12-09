@@ -1,7 +1,7 @@
 ---
 title: December 2021 Update
 date: 2021-12-09T19:10:49.288Z
-draft: true
+draft: false
 ---
 <!--StartFragment-->
 
